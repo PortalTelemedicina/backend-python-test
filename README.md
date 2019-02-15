@@ -1,4 +1,4 @@
-# Full-stack Test for candidates
+# Back-end Test for candidates
 
 We expect the candidate create a Web API based on the following requisites.
 
@@ -11,10 +11,6 @@ The usage of the following are considered a plus
 - Django
 - Flask or Django REST Framework
 - Docker
-
-## Web Client Technical Requisites
-The front-end must be separated from the Web API Solution and you are free to choose the tools used in the implementation
-- Your HTML and CSS will be checked within the following implementation:
 
 ## WEB API Main Tasks
 > 1. Create the following unauthenticated service endpoints
@@ -42,7 +38,7 @@ The front-end must be separated from the Web API Solution and you are free to ch
 ## Documentation Requisites
 - It can be done in portuguese although being in english will also be considered a plus
 - Should be easy to read and understand the usage (from a client developer's perspective) of your services
-- It should be  easy to undertand how to execute your tests
+- It should be easy to undertand how to execute your tests
 
 ## Last Requisites
 - You can use your Github, GitLab or BitBucket to deliver this test
